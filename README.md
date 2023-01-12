@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saritmg
-- 👀 I’m interested in Analytics and Business Intellignece
-- 🌱 I’m currently learning looking for a careeer in Data Analysis
+- 👀 I’m interested in Database Environments, its implementation and maintenance.
+- 🌱 I’m currently learning looking for a careeer in Database Administrator.
 - 📫 Reach me through my linkedin profile https://www.linkedin.com/in/saritatamang/
 
 <!---
