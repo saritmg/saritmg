@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaritaTamang
-- 👀 I’m interested in Database Environments, its implementation and maintenance.
-- 🌱 I’m currently learning looking for a careeer in Database Administrator.
+- 👀 I’m interested in being a Data Detective.
+- 🌱 I’m currently learning looking for a careeer in Data Analysis.
 - 📫 Reach me through my linkedin profile https://www.linkedin.com/in/saritatamang/
 
 <!---
